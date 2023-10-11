@@ -1,0 +1,76 @@
+body{
+background-image: url(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/superover-bg.png);
+background-size: cover;
+}
+#logo{
+    display: flex;
+    width: 60px;
+    height: 60px;
+    margin-left: 45%;
+    margin-top: 5%;
+}
+#b1{
+    background-color: rgb(15, 15, 173);
+    width: 450px;
+    height: 350px;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 5%;
+    display: inline-block;
+    margin-left: 15%;
+    border-radius: 5%;
+}
+.balls{
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: inline-block;
+}
+#pg{
+    margin-top: 0%;
+    padding-top: 15%;
+    margin-bottom: 20px;
+}
+#indsc{
+    margin: 5px;
+    font-size: 40px;
+}
+#b2{
+    background-color: rgb(22, 126, 32);
+    width: 450px;
+    height: 350px;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 5%;
+    display: inline-block;
+    margin-left: 10%;
+    border-radius: 5%;
+}
+#ppg{
+    margin-top: 0%;
+    padding-top: 15%;
+    margin-bottom: 20px;
+}
+#paksc{
+    margin: 5px;
+    font-size: 40px;
+}
+#button{
+    width: 70px;
+    height: 70px;
+    margin-left: 42%;
+    margin-top: 5%;
+}
+#button2{
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 5%;
+}
